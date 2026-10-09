@@ -1,0 +1,239 @@
+# Falcon — Business Money Software for Indian Companies
+
+> Falcon keeps all your business money work in one place, checks every entry before it becomes final, and lets you ask questions in plain words.
+
+Content date: 8 October 2026. Powered by GodEngine. Mascot: Talon (Falcon's bow-tied falcon. He checks every entry before it goes into the books.).
+
+## What is true about Falcon
+- Falcon is business money software for Indian companies: one system for invoices, purchases, bank entries, stock, salaries, GST and the account books. It is NOT billing software with AI added, NOT a chatbot that writes accounting entries, NOT 'accounting that runs itself'.
+- The AI helps with the books but never keeps them: it answers a set list of questions from the real books and prepares allowed actions, each with rule checks, permissions, limits, a preview and a person's confirmation. Falcon's fixed accounting rules do all recording, totals, financial statements, corrections and book checks.
+- Parts: Sell, Buy, Money, Stock, People & Salaries, Tax & GST working, Books & Reports, all writing into one set of account books. Books is where entries become official accounts.
+- Every entry follows the same steps: Prepare → Check → Approve → Record → Match → History. One person prepares and another approves, months are closed with permission, corrections keep their history, and health checks run on the books.
+- Honest scope: Falcon prepares GST and tax numbers from the bills already in the books; whether a return is filed inside Falcon, through a partner, or outside depends on the setup and is confirmed before the business starts. Falcon does not claim 'fully compliant', 'bank-grade', 'tamper-proof' or 'government certified'.
+- Moving data from Tally and other supported sources goes into a holding area first; a person fixes the problems found before anything is recorded. What moves is agreed before starting.
+- The price is discussed in a walkthrough. No customer names, results or reviews are published on this site.
+
+## Key pages
+- [Home](https://falcon.godengine.si/)
+- [Product overview](https://falcon.godengine.si/product/) — all the parts of Falcon
+- [Sell](https://falcon.godengine.si/product/sell/) — Invoices and money owed to you
+- [Buy](https://falcon.godengine.si/product/buy/) — Purchases and money you owe
+- [Money](https://falcon.godengine.si/product/money/) — Bank entries and matching
+- [Stock](https://falcon.godengine.si/product/stock/) — Stock and what it is worth
+- [People & Salaries](https://falcon.godengine.si/product/people-payroll/) — Salaries in the picture
+- [Tax & GST](https://falcon.godengine.si/product/tax-gst/) — GST and tax numbers
+- [Books & Reports](https://falcon.godengine.si/product/books-reports/) — Account books and reports
+- [Falcon AI](https://falcon.godengine.si/product/ai/) — Ask, Draft, Preview, Confirm, Record
+- [How Falcon works](https://falcon.godengine.si/how-it-works/) — the six steps every entry takes
+- [Why Falcon](https://falcon.godengine.si/why-falcon/) — what makes it different
+- [Checks & History](https://falcon.godengine.si/controls-and-audit/)
+- [Moving your data](https://falcon.godengine.si/migration/)
+- [For Indian businesses](https://falcon.godengine.si/for-indian-businesses/)
+- [Use cases](https://falcon.godengine.si/use-cases/)
+- [Business Owners](https://falcon.godengine.si/use-cases/business-owners/)
+- [Finance Teams](https://falcon.godengine.si/use-cases/finance-teams/)
+- [Accountants](https://falcon.godengine.si/use-cases/accountants/)
+- [Businesses With Stock](https://falcon.godengine.si/use-cases/inventory-businesses/)
+- [Service Businesses](https://falcon.godengine.si/use-cases/service-businesses/)
+- [FAQ](https://falcon.godengine.si/faq/) — straight answers about what Falcon does
+- [Insights](https://falcon.godengine.si/insights/) — simple guides
+- [Brochure](https://falcon.godengine.si/brochure/) — Falcon — The Financial Core (Brochure Edition 2026)
+- [Plain summary](https://falcon.godengine.si/ai-overview/) — Falcon in plain words
+- [Contact](https://falcon.godengine.si/contact/) — Book a Falcon Walkthrough
+
+## Optional
+- [Full text for language models](https://falcon.godengine.si/llms-full.txt)
+- [Sitemap](https://falcon.godengine.si/sitemap.xml)
+
+---
+
+# Full reference
+
+## The ideas behind Falcon
+01. One set of true numbers. Sales, purchases, bank, stock, salaries, tax and the books all come from the same place.
+02. Check before it is final. Every entry is prepared, checked and approved before it goes into the books.
+03. AI helps with the books. It does not keep them. The AI explains and drafts. Falcon's fixed rules do the recording and the totals.
+04. The history is part of the job. Who did what, when, and what changed is always kept.
+05. New parts connect to the same books. Adding stock or payroll never creates a separate system you have to match later.
+
+## The six steps (How Falcon works)
+01 Work: Your team does their normal work: invoices, purchase bills, bank entries, stock, salaries and tax. Each thing is recorded once, where it happens.
+02 Check: Falcon checks the entry against business and accounting rules. Mistakes are caught here, while they are still easy to fix.
+03 Approve: Important entries go to a second person for approval. Everyone can see who prepared it and who approved it.
+04 Record: Falcon's fixed rules put the entry into the account books. The books, not the AI and not a spreadsheet, hold the true numbers.
+05 Match: Bank entries, stock and records are matched against the books, checked, closed for the month and kept. Month-end becomes calmer.
+06 Ask: Ask the AI questions in plain words, or let it draft an action for you to preview and confirm. You stay in control.
+
+## Parts
+### Sell (M01) — https://falcon.godengine.si/product/sell/
+Make the invoice. Track the payment. It goes into the books by itself.
+Your sales team makes invoices the normal way. Falcon records each one in the account books at the same time, so nobody has to fix the accounts later.
+Benefits: Keep customer details and make invoices; See who owes you money, and for how long; Send statements and follow up for payment; Every invoice goes into the same account books; Ask the AI questions like “who owes us the most?”.
+
+### Buy (M02) — https://falcon.godengine.si/product/buy/
+Buying something should not become a puzzle at month-end.
+Record a supplier bill once. Falcon keeps the bill, the payment due and the tax details together, in the same books as everything else.
+Benefits: Keep supplier details; Record purchase bills; See what you owe and when it is due; TDS and GST details prepared from the bill, where supported; Every bill is checked and approved before it goes into the books.
+
+### Money (M03) — https://falcon.godengine.si/product/money/
+Your bank balance is just a number. Matching tells you the story.
+Falcon brings in your bank entries, suggests which invoice or bill each one belongs to, and lets a person confirm it. Only then is the entry final.
+Benefits: Bring in bank statement entries; Falcon suggests which invoice or bill each entry matches; A person confirms every match before it is final; Confirmed matches go into the same account books; See where money came from and where it went.
+Key message: Falcon does not promise “automatic matching” that works like magic. Falcon suggests a match, and a person confirms it. A suggestion is not final until someone says yes.
+
+### Stock (M04) — https://falcon.godengine.si/product/stock/
+Know what moved, and what it cost you.
+Stock should not sit in a separate register that someone has to match with the books at month-end. In Falcon, every stock movement is recorded in the books at the same time.
+Benefits: Record stock coming in and going out; See how much stock you have at any time; Know what your stock is worth, in the books; Works for trading and manufacturing businesses; Stock and accounts always agree.
+
+### People & Salaries (M08) — https://falcon.godengine.si/product/people-payroll/
+Salaries belong in your money picture, not in a separate sheet.
+Prepare and run salaries for your team. The cost goes into the same account books as everything else, so your profit numbers are complete.
+Benefits: Prepare monthly salaries; Salary costs recorded in the account books; See staff costs next to sales, purchases and cash; The same prepare, check, approve and record steps as every other entry.
+Good to know: Government deductions such as PF, ESI and TDS are handled through supported salary steps. We confirm exactly what is covered for your business before you start.
+
+### Tax & GST (M08) — https://falcon.godengine.si/product/tax-gst/
+Your GST numbers, built from the bills you already made.
+Falcon prepares your GST and tax working from the invoices and bills already in the books. No re-typing at month-end.
+Benefits: GST numbers prepared from your own invoices and bills; Supported tax steps for Indian businesses; Built to connect with e-invoicing systems; Every number has the bill behind it; TDS and GST details on purchases, where supported.
+Good to know: Falcon prepares the GST and tax numbers for you. Whether the return is filed from inside Falcon, through a partner service, or outside depends on your setup. We tell you exactly what is covered before you start. We do not claim that every return is filed automatically.
+
+### Books & Reports (M05) — https://falcon.godengine.si/product/books-reports/
+This is where daily work becomes your official accounts.
+Every invoice, bill, bank entry, stock movement and salary ends up here. Entries are checked, approved and recorded. Reports come from these records, not from a separate sheet.
+Benefits: Every entry recorded once, in one place; One person prepares, another approves; Close the month when you are ready; reopen it only with permission; Correct a wrong entry without hiding the history; Automatic checks that the books add up; Reports built from the real entries.
+- Entries first: Reports are built from recorded entries, never from numbers someone typed into a summary sheet.
+- Health checks: Falcon keeps checking the books and shows you anything that needs attention, well before month-end.
+- Prepare and approve: Where you want this control, the person who prepares an entry is not the person who approves it.
+- Close the month properly: Closing or reopening a month is a deliberate step with permission, not an accident.
+- A record of everything: Who changed what, and when, is always kept.
+
+## Falcon AI
+Can help with: Cash in hand, Who owes us money, Who we owe, Profit and loss, Month-by-month trends, GST position, Top customers, Top suppliers, Where expenses go, Profit per item, Health of the books, Drafts and allowed actions.
+Can never: Putting entries into the books, The totals in the books, Your financial statements, Correcting or cancelling entries, Checking that the books add up.
+- Ask: Ask a question in plain words and get a clear answer from your real numbers.
+- Draft: Let the AI prepare a document or an entry for you.
+- Preview: See exactly what will happen before anything happens.
+- Confirm: Falcon runs its checks, and a person says yes.
+- Record: Falcon's own rules record the entry. The AI never writes to the books itself.
+The AI suggests. Falcon checks. Your books record.
+Plain words on top. Proper accounting underneath.
+
+## How Falcon keeps the books safe
+- Roles decide who can do what: What each person can prepare, approve or record depends on their role.
+- Approvals: Important entries can go to a second person for approval before they become final.
+- Checked before final: An entry starts as a draft. It is checked, approved, and only then recorded in the books.
+- Health checks on the books: Falcon keeps checking that the books add up and shows problems early, not months later.
+- History of every change: Who did what, and when, is always kept.
+- Corrections done properly: A wrong entry is corrected with a new entry and a note. Nothing is quietly edited.
+- Month closing: Closing or reopening a month is a deliberate step that needs permission.
+- AI limits: The AI can only do a fixed list of things. Every action is checked, previewed and confirmed by a person.
+
+## Use cases
+### Business Owners — https://falcon.godengine.si/use-cases/business-owners/
+See your whole business without asking five people.
+Falcon shows you the things you actually want to know, in simple words: how much cash you have, who owes you, who you owe, whether you are making a profit, how much stock you hold, and whether the books are in good shape.
+- Cash: Your cash position comes from bank entries that have been matched and confirmed, not from a number someone typed into a sheet.
+- Who owes you, who you owe: Built from the same invoices and bills your team actually made, with how old each one is.
+- Profit: Profit and loss, and month-by-month trends, come straight from the recorded entries.
+- Stock: Stock movements are in the books, so your stock register and your accounts tell one story.
+- Where the money goes: Ask where expenses are going and get an answer from real numbers.
+- Health of the books: Falcon keeps checking the books and tells you about problems early, not at month-end.
+
+### Finance Teams — https://falcon.godengine.si/use-cases/finance-teams/
+Work faster without losing control.
+Faster does not have to mean sloppier. Falcon is built for teams who care about proper entries, approvals, bank matching, month close, corrections, history, health checks, reports and automation that never skips the checks.
+- Proper entries: Reports come from recorded entries, never from a summary sheet someone maintains by hand.
+- Approvals: The person who prepares an entry is not the person who approves it, wherever you want that control.
+- Bank matching: Bank entries, stock and records are matched and confirmed against the books.
+- Month close and corrections: Closing, reopening and correcting are deliberate steps, each with a history.
+- Health checks: Falcon keeps checking the books and shows problems early, not months later.
+- Safe automation: The AI drafts and shows a preview. Falcon's rules do the recording. Automation never skips the checks.
+
+### Accountants — https://falcon.godengine.si/use-cases/accountants/
+A system that follows accounting rules, and shows its working.
+Double-entry (every amount recorded on both sides, so the books balance), proper vouchers (accounting entries), approvals, bank matching, month closing, corrections and a full history are not add-ons in Falcon. They are the point where daily work becomes the official accounts.
+- Double-entry, always: Every amount is recorded on both sides, so the books always balance.
+- Vouchers first: A voucher (a proper accounting entry) is the only way into the books. Nothing gets in through a side door.
+- Month close: Closing and reopening a month are deliberate steps that need permission.
+- Corrections with history: A wrong entry is corrected with a new entry and a note. Nothing is quietly edited.
+- Full history: Who did what, when, and what changed is always kept.
+- Migration you can inspect: Data from Tally or sheets lands in a holding area first. Issues are fixed by a person, and only then is anything recorded.
+
+### Businesses With Stock — https://falcon.godengine.si/use-cases/inventory-businesses/
+Your stock register and your account books should tell the same story.
+If you trade, distribute or manufacture, the gap between “what moved” and “what it cost” is where your profit picture gets lost. Falcon records stock in, stock out and stock value in the same books as everything else.
+- Stock in, stock out: Each movement is recorded where it happens, by the person who handles it.
+- What it is worth: Every movement is linked to its cost and value in the books.
+- Trading and manufacturing: Works whether you simply move goods or turn raw material into finished goods.
+- Profit per item: Ask the AI which items make money. The answer comes from the recorded entries.
+- Purchases connected: The supplier bill and the stock it brings in are recorded in the same books.
+
+### Service Businesses — https://falcon.godengine.si/use-cases/service-businesses/
+Invoices, salaries and GST in one flow, not three.
+Service businesses rarely worry about stock. They worry about customers who pay late, salaries kept in a separate sheet, and GST numbers prepared at the last minute. Falcon puts all three in one set of books.
+- Invoices and dues: Customer invoices, statements and payment follow-ups, all recorded in the books.
+- Salaries in the picture: Salary costs go into the same books, so your profit numbers are complete.
+- GST from your own bills: GST numbers are prepared from the invoices and bills already in the books.
+- Cash explained: Bank entries are matched and confirmed, so you know where every rupee went.
+- Owner questions answered: Who owes us, who are our top customers, how are we doing month by month. Just ask.
+
+## FAQ
+Q: Is Falcon just invoicing software?
+A: No. Invoicing is one part of it. Falcon also handles purchases, bank entries, stock, salaries, GST numbers and the account books, all in one place. Everything is checked before it becomes final.
+
+Q: Is Falcon an AI chatbot that does accounting?
+A: No. The AI is one helper inside Falcon. It answers questions and prepares drafts. The account books and Falcon's fixed accounting rules hold the real numbers, and the AI cannot change them.
+
+Q: Is Falcon built for India?
+A: Yes. GST and tax working, Indian number formats like lakhs and crores, and ways to move your data from Tally are built in.
+
+Q: Can my staff use Falcon without knowing accounting?
+A: That is the idea. Your sales, purchase, store and HR staff do their normal work: make invoices, record bills, note stock, prepare salaries. Falcon takes care of the accounting side, under your finance team's controls.
+
+Q: Can the AI put whatever it wants into the books?
+A: No. The AI can only do a fixed list of things. Every action is checked against the rules, shown to you as a preview, and needs a person to confirm it before anything is recorded.
+
+Q: What can Falcon AI actually answer?
+A: Questions about your real numbers: how much cash you have, who owes you and since when, who you owe, profit and loss, month-by-month trends, your GST position, top customers and suppliers, where expenses are going, profit per item, and whether the books are in good shape. It can also draft documents and prepare allowed actions for you to confirm.
+
+Q: What can Falcon AI never do?
+A: It never puts entries into the books, never changes totals, never produces your financial statements, never corrects or cancels entries, and never decides whether the books add up. The AI can explain and prepare. Falcon's fixed rules do the recording.
+
+Q: Can Falcon replace our accountant?
+A: No, and we do not promise that. Falcon gives owners, accountants and finance teams one system with stronger checks and faster answers. Your accountant still makes the decisions.
+
+Q: How does Falcon stop mistakes before they go into the books?
+A: Every important entry goes through the same steps: prepare, check, approve, record. The same steps apply to normal entries, to data moved in from other systems, and to anything the AI prepares.
+
+Q: Can we see who did what?
+A: Yes. Falcon keeps a record of who prepared, approved, recorded, corrected or closed anything, and when. Roles decide who is allowed to do each step.
+
+Q: Can we move our old data into Falcon?
+A: Yes. Falcon can bring in data from Tally and other supported sources. The data first lands in a holding area. Problems like duplicate names or balances that do not match are shown to a person, who fixes them. Only then is the data recorded in the books. We confirm exactly what will be moved before you start.
+
+Q: Does Falcon file every GST and tax return automatically?
+A: We do not promise that. Falcon prepares the numbers. Whether a return is filed from inside Falcon, through a partner service, or outside depends on what is available and set up for your business. We tell you exactly what is covered before you buy.
+
+Q: What happens in a Falcon walkthrough?
+A: You tell us about one part of your business that causes the most trouble at month-end: invoices, purchases, bank entries, stock, salaries, the books, or all of them. We show you how Falcon would handle that exact work. No generic slideshow.
+
+Q: Is the price published?
+A: Not on this website. The price depends on which parts of Falcon you use, how many companies you run and how much data needs to be moved. We discuss it in the walkthrough.
+
+Q: What is GodEngine?
+A: Falcon is “Powered by GodEngine”. GodEngine is the technology behind the product, built for everyday accounting, financial control and AI help that stays within limits. We share more in a walkthrough.
+
+## Insights (articles)
+- Separate tools, accounting software, AI chatbots or spreadsheets: which way of working is right for you? (2026-10-06) — https://falcon.godengine.si/insights/choosing-an-operating-model/: A comparison of ways of working, not brand names. Who each one suits, where it struggles, and where Falcon fits.
+- Health checks on your books: how finding problems early makes month-end easier (2026-10-05) — https://falcon.godengine.si/insights/books-health-and-month-end/: Month-end is slow when problems are only found at month-end. Falcon checks the books all the time, and treats closing, reopening and correcting as careful steps.
+- Eleven questions every business owner should be able to ask their software (2026-10-04) — https://falcon.godengine.si/insights/what-business-owners-should-ask-their-financial-system/: Cash, dues, profit, trends, GST, top customers, expenses, profit per item and the health of the books. The questions Falcon AI answers, and why each one matters.
+- Moving from Tally: bring your data across carefully, not by copy-paste (2026-10-03) — https://falcon.godengine.si/insights/moving-from-tally-oriented-workflows/: Falcon moves your old data the same careful way it handles every entry: bring it into a holding area, fix the problems, then record it. Here is why that makes switching safer.
+- Stock that stays in the books: for businesses that buy and sell goods (2026-10-02) — https://falcon.godengine.si/insights/stock-that-stays-in-the-books/: For traders, distributors and manufacturers, the gap between “what moved” and “what it cost” is where your profit picture gets lost. Falcon closes that gap.
+- Your bank balance is just a number. Matching tells you the story. (2026-10-01) — https://falcon.godengine.si/insights/bank-balance-vs-reconciliation/: How Falcon takes you from a list of bank entries to entries that are matched, confirmed and explained, without pretending it happens by magic.
+- AI that helps with the books, but never keeps them (2026-09-29) — https://falcon.godengine.si/insights/ai-above-the-books-not-as-the-books/: Why Falcon is not an “AI accounting app”, what Falcon AI can and cannot do, and why that line matters for your money.
+- Check first, then record: the idea Falcon is built on (2026-09-22) — https://falcon.godengine.si/insights/control-before-commitment/: Money software becomes risky when one click changes your accounts forever. Here is the simple rule Falcon follows instead, and why we chose it over speed.
+- How Falcon works: one invoice, six steps, one set of books (2026-09-15) — https://falcon.godengine.si/insights/how-falcon-works-six-stages/: Follow one sales invoice from the moment it is made to the moment you ask a question about it, and see why nothing gets into the books through a back door.
+- Why your business has five different numbers for the same thing (2026-09-08) — https://falcon.godengine.si/insights/why-your-business-has-five-versions-of-the-truth/: The billing app says one thing, the stock register another, the bank a third. The problem is usually not accounting. It is too many separate tools.
+
+Leadership: Divya Prakash Jha (CEO), Vaibhav Jain (COO), Zeeshan Khan (CMO).

@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://falcon.godengine.si
+Sitemap: https://falcon.godengine.si/sitemap.xml

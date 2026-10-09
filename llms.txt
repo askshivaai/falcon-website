@@ -1,0 +1,46 @@
+# Falcon — Business Money Software for Indian Companies
+
+> Falcon keeps all your business money work in one place, checks every entry before it becomes final, and lets you ask questions in plain words.
+
+Content date: 8 October 2026. Powered by GodEngine. Mascot: Talon (Falcon's bow-tied falcon. He checks every entry before it goes into the books.).
+
+## What is true about Falcon
+- Falcon is business money software for Indian companies: one system for invoices, purchases, bank entries, stock, salaries, GST and the account books. It is NOT billing software with AI added, NOT a chatbot that writes accounting entries, NOT 'accounting that runs itself'.
+- The AI helps with the books but never keeps them: it answers a set list of questions from the real books and prepares allowed actions, each with rule checks, permissions, limits, a preview and a person's confirmation. Falcon's fixed accounting rules do all recording, totals, financial statements, corrections and book checks.
+- Parts: Sell, Buy, Money, Stock, People & Salaries, Tax & GST working, Books & Reports, all writing into one set of account books. Books is where entries become official accounts.
+- Every entry follows the same steps: Prepare → Check → Approve → Record → Match → History. One person prepares and another approves, months are closed with permission, corrections keep their history, and health checks run on the books.
+- Honest scope: Falcon prepares GST and tax numbers from the bills already in the books; whether a return is filed inside Falcon, through a partner, or outside depends on the setup and is confirmed before the business starts. Falcon does not claim 'fully compliant', 'bank-grade', 'tamper-proof' or 'government certified'.
+- Moving data from Tally and other supported sources goes into a holding area first; a person fixes the problems found before anything is recorded. What moves is agreed before starting.
+- The price is discussed in a walkthrough. No customer names, results or reviews are published on this site.
+
+## Key pages
+- [Home](https://falcon.godengine.si/)
+- [Product overview](https://falcon.godengine.si/product/) — all the parts of Falcon
+- [Sell](https://falcon.godengine.si/product/sell/) — Invoices and money owed to you
+- [Buy](https://falcon.godengine.si/product/buy/) — Purchases and money you owe
+- [Money](https://falcon.godengine.si/product/money/) — Bank entries and matching
+- [Stock](https://falcon.godengine.si/product/stock/) — Stock and what it is worth
+- [People & Salaries](https://falcon.godengine.si/product/people-payroll/) — Salaries in the picture
+- [Tax & GST](https://falcon.godengine.si/product/tax-gst/) — GST and tax numbers
+- [Books & Reports](https://falcon.godengine.si/product/books-reports/) — Account books and reports
+- [Falcon AI](https://falcon.godengine.si/product/ai/) — Ask, Draft, Preview, Confirm, Record
+- [How Falcon works](https://falcon.godengine.si/how-it-works/) — the six steps every entry takes
+- [Why Falcon](https://falcon.godengine.si/why-falcon/) — what makes it different
+- [Checks & History](https://falcon.godengine.si/controls-and-audit/)
+- [Moving your data](https://falcon.godengine.si/migration/)
+- [For Indian businesses](https://falcon.godengine.si/for-indian-businesses/)
+- [Use cases](https://falcon.godengine.si/use-cases/)
+- [Business Owners](https://falcon.godengine.si/use-cases/business-owners/)
+- [Finance Teams](https://falcon.godengine.si/use-cases/finance-teams/)
+- [Accountants](https://falcon.godengine.si/use-cases/accountants/)
+- [Businesses With Stock](https://falcon.godengine.si/use-cases/inventory-businesses/)
+- [Service Businesses](https://falcon.godengine.si/use-cases/service-businesses/)
+- [FAQ](https://falcon.godengine.si/faq/) — straight answers about what Falcon does
+- [Insights](https://falcon.godengine.si/insights/) — simple guides
+- [Brochure](https://falcon.godengine.si/brochure/) — Falcon — The Financial Core (Brochure Edition 2026)
+- [Plain summary](https://falcon.godengine.si/ai-overview/) — Falcon in plain words
+- [Contact](https://falcon.godengine.si/contact/) — Book a Falcon Walkthrough
+
+## Optional
+- [Full text for language models](https://falcon.godengine.si/llms-full.txt)
+- [Sitemap](https://falcon.godengine.si/sitemap.xml)
